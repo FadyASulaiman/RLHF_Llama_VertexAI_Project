@@ -4,4 +4,5 @@ To Install the dependencies of 'tuning_llama' notebook run:
 ```
 !pip3 install google-cloud-pipeline-components
 !pip3 install kfp
+!pip3 install google-cloud-aiplatform
 ```
